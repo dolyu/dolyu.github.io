@@ -12,7 +12,8 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" 
+# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -96,11 +97,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "DolyU"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "DolyU's Page."
+  location         : "Korea"
+  email            : "dolyudolyu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
